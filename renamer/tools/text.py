@@ -22,9 +22,9 @@ class TEXT:
 
 ** Developer:** {bot_owner}
 
-** Channel:** [NS BOT UPDATES](https://t.me/Moviez_Explorer)
+** Channel:** [Moviez Explorer](https://t.me/Moviez_Explorer)
 
-** Group:** [Ns BOT SUPPORT](https://t.me/Moviez_Explorer)
+** Group:** [Channel hi hai Bhai Mera to](https://t.me/Moviez_Explorer)
 """
 
     HELP_USER = """**Follow Below Steps:**
