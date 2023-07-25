@@ -18,7 +18,7 @@ class Config:
     DATABASE_URL = os.environ.get("DATABASE_URL", "")
     DOWNLOAD_LOCATION = "./DOWNLOADS"
     try:
-        TIME_GAP = int(os.environ.get("TIME_GAP", "")) if os.environ.get("TIME_GAP", "") else None
+        TIME_GAP = int(os.environ.get("TIME_GAP", "")) if os.environ.get("TIME_GAP", "0") else None
     except:
         TIME_GAP = None
         logger.warning("Give the timegap in seconds. Dont use letters 😑")
